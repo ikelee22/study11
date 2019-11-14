@@ -1,0 +1,4 @@
+command
+takeoff
+sleep 6
+land
