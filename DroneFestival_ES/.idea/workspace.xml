@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="456dfc79-29fd-4025-b2c2-7b30f9f2e0a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tello_rc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tello_rc.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AINukeHere &lt;iii4625@naver.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ofj9yUHMEBNsN5N3DePaXxqlGC" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DroneFestival_MS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tello_Gui_E_ver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DroneFestival_ES" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tello_Gui_E_ver.py" />
+      <option name="PARAMETERS" value="True" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Tello_Gui_E_ver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="456dfc79-29fd-4025-b2c2-7b30f9f2e0a7" name="Default Changelist" comment="" />
+      <created>1563201070187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563201070187</updated>
+    </task>
+    <task id="LOCAL-00001" summary="without venv">
+      <created>1563201177380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563201177380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TimeOut">
+      <created>1563276636963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563276636963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cap auto release">
+      <created>1563277161920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563277161920</updated>
+    </task>
+    <task id="LOCAL-00004" summary="input image RGB to BGR">
+      <created>1563333363144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563333363144</updated>
+    </task>
+    <task id="LOCAL-00005" summary="doNotLand bug fix">
+      <created>1563353920913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563353920913</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: format bug, delta value bug">
+      <created>1563780824874</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563780824874</updated>
+    </task>
+    <task id="LOCAL-00007" summary="spinbox value min,max">
+      <created>1563782016900</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563782016900</updated>
+    </task>
+    <task id="LOCAL-00008" summary="spinbox value min,max2">
+      <created>1563784986582</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563784986582</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed resetTimer bug">
+      <created>1565146312012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1565146312012</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update rc file">
+      <created>1565240489008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1565240489008</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update rc file">
+      <created>1565259732877</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1565259732877</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="without venv" />
+    <MESSAGE value="TimeOut" />
+    <MESSAGE value="cap auto release" />
+    <MESSAGE value="input image RGB to BGR" />
+    <MESSAGE value="doNotLand bug fix" />
+    <MESSAGE value="fix: format bug, delta value bug" />
+    <MESSAGE value="spinbox value min,max" />
+    <MESSAGE value="spinbox value min,max2" />
+    <MESSAGE value="fixed resetTimer bug" />
+    <MESSAGE value="update rc file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update rc file" />
+  </component>
+</project>
