@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07193c6d-63a7-4081-9c25-daf9063b46a8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Spin</find>
+      <find>P1</find>
+      <find>renderImg</find>
+      <find>self.originFrame</find>
+      <find>os</find>
+      <find>np</find>
+      <find>processedFrame</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AINukeHere &lt;iii4625@naver.com&gt;" />
+        <option value="AINukeHere" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1OfjULqnxFEZ2NhvFhEQsZhdzlq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tello_Gui_M_ver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DroneFestival_MS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tello_Gui_M_ver.py" />
+      <option name="PARAMETERS" value="True" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Tello_Gui_M_ver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07193c6d-63a7-4081-9c25-daf9063b46a8" name="Default Changelist" comment="" />
+      <created>1562891989668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562891989668</updated>
+    </task>
+    <task id="LOCAL-00001" summary="remove unused code">
+      <created>1562897243103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562897243103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stable">
+      <created>1562898568834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562898568834</updated>
+    </task>
+    <task id="LOCAL-00003" summary="print connecting..., objectDetector_Mobilenet_SSD">
+      <created>1563035880519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563035880519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="WindowName rename E -&gt; M, UpDown">
+      <created>1563182001279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563182001279</updated>
+    </task>
+    <task id="LOCAL-00005" summary="WindowName rename E -&gt; M, UpDown">
+      <created>1563182053888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563182053888</updated>
+    </task>
+    <task id="LOCAL-00006" summary="without venv">
+      <created>1563201228695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563201228695</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tello VideoCapture async, timer bug fix">
+      <created>1563263802267</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563263802267</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Async Video Streaming">
+      <created>1563276183731</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563276183731</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[Timeout]">
+      <created>1563276695458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563276695458</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cap auto release">
+      <created>1563277097565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563277097565</updated>
+    </task>
+    <task id="LOCAL-00011" summary="optimize, change imageupdate process">
+      <created>1563331920913</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563331920913</updated>
+    </task>
+    <task id="LOCAL-00012" summary="doNotLand bug fix">
+      <created>1563353883279</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563353883279</updated>
+    </task>
+    <task id="LOCAL-00013" summary="move delta bug">
+      <created>1563783592030</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563783592030</updated>
+    </task>
+    <task id="LOCAL-00014" summary="move delta bug2">
+      <created>1563784517366</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563784517366</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix : resetTimer bug">
+      <created>1563877228502</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563877228502</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add ObjectDetection Option for no OpenVINO Enviroment">
+      <created>1564375899383</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1564375899383</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add detectCounts, when connect, auto resetData">
+      <created>1564647870159</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1564647870159</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add condition for use webcam">
+      <created>1564983141307</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1564983141308</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update rc file">
+      <created>1565259838678</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1565259838678</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove unused code" />
+    <MESSAGE value="stable" />
+    <MESSAGE value="print connecting..., objectDetector_Mobilenet_SSD" />
+    <MESSAGE value="WindowName rename E -&gt; M, UpDown" />
+    <MESSAGE value="without venv" />
+    <MESSAGE value="tello VideoCapture async, timer bug fix" />
+    <MESSAGE value="Async Video Streaming" />
+    <MESSAGE value="[Timeout]" />
+    <MESSAGE value="cap auto release" />
+    <MESSAGE value="optimize, change imageupdate process" />
+    <MESSAGE value="doNotLand bug fix" />
+    <MESSAGE value="move delta bug" />
+    <MESSAGE value="move delta bug2" />
+    <MESSAGE value="fix : resetTimer bug" />
+    <MESSAGE value="add ObjectDetection Option for no OpenVINO Enviroment" />
+    <MESSAGE value="add detectCounts, when connect, auto resetData" />
+    <MESSAGE value="add condition for use webcam" />
+    <MESSAGE value="update rc file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update rc file" />
+  </component>
+</project>
